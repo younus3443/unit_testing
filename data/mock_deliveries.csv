@@ -1,0 +1,9 @@
+match_id,batting_team,bowling_team,bowler,extra_runs,total_runs
+1,MI,CSK,Bumrah,1,5
+1,MI,CSK,Malinga,0,4
+2,RCB,SRH,Starc,2,6
+3,RCB,MI,Sundar,0,3
+3,RCB,MI,Chahal,0,2
+4,SRH,KKR,Bhuvneshwar,1,5
+5,CSK,RCB,Jadeja,0,3
+5,CSK,RCB,Bravo,0,4
